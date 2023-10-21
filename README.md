@@ -26,7 +26,7 @@ yad13-html-sourceview = compiled on Debian 12 x64 system.
 
 yad-settings
 
-    cp ./yad-settings  /usr/local/bin (THis is yad-13.0 original file)
+    cp ./yad-settings  /usr/local/bin (THis is yad-13.0 original file
 
 
 yad-tools 
