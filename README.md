@@ -1,7 +1,9 @@
 # yad-compiled-files
 Yad Gui Compiled Files x64
 
-The above files in yad-compiled-files repository can be used as named or if you want to replace your existing yad file, change the yad-html-X-X  files name to yad
+The above files in yad-compiled-files repository can be used as named or if you want to renamed the file dcompressed from its *.zip file to yad. Then copy yad to /usr/local/bin. You will need to use sudo.  Make yad executable with 
+
+<code>sudo chmod a+x /usr/local/bin/yad</code>
 
 Dependencies that still must be installed are (Plus the dependencies if listed below filename below)
 
